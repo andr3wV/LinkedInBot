@@ -1,0 +1,71 @@
+{
+	"name": "Linkedin-Connection-Bot",
+	"version": "0.0.1",
+	"description": "An tool to automate the connection requests on LinkedIn",
+	"bin": {
+		"linkedin-auto-bot": "lib/cli.js",
+		"lab": "lib/cli.js"
+	},
+	"scripts": {
+		"build": "babel src -d lib",
+		"start": "node src/cli.js -u andrewv433@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/andrewv433/LinkedInBot.git"
+        
+    },
+	"keywords": [
+		"linkedin",
+		"connect",
+		"hack",
+		"invite",
+		"automation",
+		"script",
+		"node",
+		"javascript",
+		"auto",
+		"people",
+		"program",
+		"tool",
+		"automate",
+		"request",
+		"connection",
+		"node",
+		"nodejs",
+		"mac",
+		"windows",
+		"linux",
+		"ubuntu",
+		"unix",
+		"download",
+		"install",
+		"npm",
+		"console"
+	],
+	"author": "andrewv433 <andrewv433@gmail.com>",
+	"license": "",
+	"bugs": {
+		"url": "https://github.com/andrewv433/LinkedInBot/issues"
+	},
+	"homepage": "https://github.com/andrewv433/LinkedInBot#readme",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"colors": "^1.1.2",
+		"commander": "^2.13.0",
+		"moment": "^2.20.1",
+		"prompt": "^1.0.0",
+		"word-wrap": "^1.2.3"
+	},
+	"devDependencies": {
+		"babel-cli": "^6.26.0",
+		"babel-plugin-transform-object-rest-spread": "^6.26.0",
+		"babel-preset-env": "^1.6.1",
+		"eslint": "^4.15.0",
+		"eslint-config-airbnb-base": "^12.1.0",
+		"eslint-plugin-import": "^2.8.0"
+	},
+	"engines": {
+		"node": ">=4.0.0"
+	}
+}
