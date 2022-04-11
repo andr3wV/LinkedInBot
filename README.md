@@ -1,12 +1,11 @@
 # LinkedIn Connection Bot
 Special thanks to **Muhammad Numan** @ MIT for setting up the NPM package for me. You're an animal brotha! 
 
-Warning: This is obviously a joke. 
-
 Just run it from your terminal or command prompt. The LinkedIn maximum connections per day is **80 to 100** and once that limit is exceeded you will be banned for a week from making connections; however, I personally have found that I can hit around 175 connection requests before being limited for only about a day. **Use at your own risk**, although there isn't that much!
 
 > A tool to automate the connection requests on LinkedIn.
 
+Warning: This is obviously a joke. 
 ## Requirements
 
  - `node` 5.0.0 or greater
