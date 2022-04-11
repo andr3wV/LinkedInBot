@@ -1,5 +1,5 @@
 {
-	"name": "Linkedin-Connection-Bot",
+	"name": "LinkedInBot",
 	"version": "0.0.1",
 	"description": "An tool to automate the connection requests on LinkedIn",
 	"bin": {
