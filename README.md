@@ -14,10 +14,10 @@ Just run it from your terminal or command prompt. The LinkedIn maximum connectio
 
 ## Install
 
-Installs the two binaries`linkedin-auto-bot` and `lab` to your system path using `npm`:
+Installs the two binaries`LinkedInBot` and `lab` to your system path using `npm`:
 
 ```bash
-$ npm install -g linkedin-auto-bot
+$ npm install -g LinkedInBot
 ```
 **Note**: you may have to force permissions (e.g. `sudo` on MacOS)
 
